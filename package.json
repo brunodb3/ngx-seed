@@ -1,7 +1,8 @@
 {
-  "name": "ngx-seed",
-  "version": "0.0.0",
   "license": "MIT",
+  "name": "ngx-seed",
+  "version": "0.0.1",
+  "author": "Bruno Duarte Brito <brunodb3@gmail.com>",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
